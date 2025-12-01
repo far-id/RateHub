@@ -118,7 +118,7 @@ export default function Home() {
 					</Card>
 					<div className='flex items-center gap-2 text-xs text-muted-foreground justify-center pt-4'>
 						{/* <Icon icon='solar:shield-check-bold' className='size-4' /> */}
-						<span>Exchange rates updated every 60 seconds</span>
+						<span>Exchange rates daily update</span>
 					</div>
 				</div>
 			</main>
